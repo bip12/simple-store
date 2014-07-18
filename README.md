@@ -1,4 +1,6 @@
 Simple_Store
+
+
 -status: work in progress
 
 - data model design: 
