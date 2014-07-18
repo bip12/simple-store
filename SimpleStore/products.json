@@ -1,0 +1,52 @@
+{
+    "Products" : [
+                  {
+                  "ID" : "1",
+                  "photo" : "fossil.png",
+                  "description" : "fossil men's watch",
+                  "name" : "fossil watch",
+                  "colors" : [
+                              "gray",
+                              "black"
+                              ],
+                  "stores" : {
+                  "101" : "true",
+                  "102" : "false"
+                  },
+                  "salePrice" : "300",
+                  "regularPrice" : "333"
+                  },
+                  {
+                  "ID" : "2",
+                  "photo" : "nautica.png",
+                  "description" : "nautica men's watch",
+                  "name" : "nautica watch",
+                  "colors" : [
+                              "red",
+                              "black"
+                              ],
+                  "stores" : {
+                  "101" : "true",
+                  "102" : "true"
+                  },
+                  "salePrice" : "250",
+                  "regularPrice" : "200"
+                  },
+                  {
+                  "ID" : "3",
+                  "photo" : "tommy-hilfigar.png",
+                  "description" : "tommy hilfiger men's watch",
+                  "name" : "tommy hilfiger watch",
+                  "colors" : [
+                              "gray",
+                              "blue",
+                              ],
+                  "stores" : {
+                  "201" : "false",
+                  "103" : "true"
+                  },
+                  "salePrice" : "410",
+                  "price" : "230"
+                  }
+                  ]
+}
